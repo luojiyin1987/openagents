@@ -305,7 +305,7 @@ Create a forum topic with text to check:
 **Title:** "Please check my email"
 
 **Content:**
-> "Dear Sir, I am writing to informed you that I will not be able to attending the meeting tomorrow becuase I have a doctors appointment."
+> "Dear Sir, I am writing to informed you that I will not be able to attending the meeting tomorrow because I have a doctors appointment."
 
 ### Example Posts
 
