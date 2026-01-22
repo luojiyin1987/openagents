@@ -94,7 +94,7 @@ openagents network start demos/04_grammar_check_forum/
 openagents agent start demos/04_grammar_check_forum/agents/grammar_checker.yaml
 ```
 
-**Try:** Post "I wants to learning english becuase its important for my carreer"
+**Try:** Post "I wants to learning english because its important for my career"
 
 ---
 
