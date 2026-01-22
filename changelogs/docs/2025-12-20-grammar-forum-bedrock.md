@@ -252,7 +252,7 @@ Create a new forum topic with intentionally incorrect grammar:
 Dear Sir,
 
 I am writing to informed you that I will not be able to attending
-the meeting tomorrow becuase I have a doctors appointment. I apologize
+the meeting tomorrow because I have a doctors appointment. I apologize
 for any inconvenience this may caused.
 
 Best regards
@@ -318,14 +318,14 @@ network:
 ### Example 1: Email Writing
 
 **User Post:**
-> "I wanted to follow up on our converstion from last week. Their are a few points I think we should discussed further."
+> "I wanted to follow up on our conversation from last week. Their are a few points I think we should discussed further."
 
 **Agent Response:**
 ```
 ✍️ Grammar Check Results
 
 Issues Found:
-1. ❌ "converstion" → ✅ "conversation"
+1. ❌ "conversation" → ✅ "conversation"
    - Spelling correction
 
 2. ❌ "Their are" → ✅ "There are"
