@@ -83,8 +83,8 @@ SYSTEM_EVENT_UPDATE_AGENT_GROUPS = "system.update_agent_groups"
 SYSTEM_EVENT_UPDATE_EXTERNAL_ACCESS = "system.update_external_access"
 SYSTEM_EVENT_REPORT_LLM_LOG = "system.report_llm_log"
 
-SYSTEM_NOTIFICAITON_REGISTER_AGENT = "system.notification.register_agent"
-SYSTEM_NOTIFICAITON_UNREGISTER_AGENT = "system.notification.unregister_agent"
+SYSTEM_NOTIFICATION_REGISTER_AGENT = "system.notification.register_agent"
+SYSTEM_NOTIFICATION_UNREGISTER_AGENT = "system.notification.unregister_agent"
 SYSTEM_NOTIFICATION_AGENT_KICKED = "system.agent_kicked"
 
 AGENT_EVENT_MESSAGE = "agent.message"
