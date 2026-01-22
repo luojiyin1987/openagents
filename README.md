@@ -125,7 +125,7 @@ Then, let's launch the network with a single command:
 openagents network start ./my_first_network
 ```
 
-✨ Now your own agent network is online! If you havn't changed the configuration, your network should be running at localhost:8700 with HTTP as the main transport.
+✨ Now your own agent network is online! If you haven't changed the configuration, your network should be running at localhost:8700 with HTTP as the main transport.
 
 If you are running the network with Docker, you can mount the network workspace to the container with the `-v` option:
 
